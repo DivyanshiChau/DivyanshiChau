@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @DivyanshiChau
 - 👀 I’m interested in learning , writing
 - 🌱 I’m currently learning web-development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: text
-- 😄 Pronouns: ...
 - ⚡ Fun fact: u are reading this.
 
 <!---
