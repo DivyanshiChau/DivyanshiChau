@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DivyanshiChau
 - 👀 I’m interested in learning , writing
-- 🌱 I’m currently learning web-development
+- 🌱 I’m currently learning web-development and cybersec
 - 📫 How to reach me: text
-- ⚡ Fun fact: u are reading this.
+- ⚡ Fun fact: Seriously??
 
 <!---
 DivyanshiChau/DivyanshiChau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
