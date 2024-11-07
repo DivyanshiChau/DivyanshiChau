@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DivyanshiChau
-- 👀 I’m interested in learning , writing
-- 🌱 I’m currently learning web-development and cybersec
+- 👀 I’m interested in learning , writing and art
+- 🌱 I’m currently learning development and cybersec
 - 📫 How to reach me: text
 - ⚡ Fun fact: Seriously??
 
