@@ -1,3 +1,5 @@
+![Demo Image](abtme.png)
+
 # 💫 About Me:
 🎯 **I’m currently working on**<br>Creating projects that contribute to social welfare, <br>while simultaneously learning and mastering backend development<br>to build secure, scalable systems.<br><br>🤝 **I’m looking to collaborate on**<br>Cybersecurity tools, full-stack web projects, open-source platforms<br>for digital literacy, and AI-powered applications with real-world<br>impact.<br><br>🌱 **I’m currently learning**<br>DSA for problem solving<br>Human-AI alignment principles<br>Backend development with Node.js & Express<br><br>💬 Ask me about<br>CTF experiences, creating research-based tech solutions,<br>and building secure end-to-end systems.<br><br>⚡ **Fun fact**<br>I'm lightning-fast when it comes to learning and executing—whether<br>it’s a hackathon sprint or polishing a codebase. I have an eye for detail <br>and a habit of doing things just right the first time!
 
